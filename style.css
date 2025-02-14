@@ -1,5 +1,10 @@
 p {
-    color: red;
-    background-color: black;
+    color: rgb(234, 231, 231);
+    background-color: rgb(19, 15, 15);
     border: 2px solid white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    text-shadow:0 0 30px gold ;
 }
